@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+# This is a true copy from: https://www.youtube.com/watch?v=JlMyYuY1aXU
+# Thanks to Brian Faure for this video.
+# Just using it trying to understand node and linked list
 
 """
 
